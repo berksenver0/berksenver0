@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Frameworks (js)**
 
-- 💬 Ask me about **Javascript, Next.js**
-
 - 📫 How to reach me **senver.berk6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
