@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks (js)**
 
-- 📫 How to reach me **senver.berk6@gmail.com**
+- 📫 How to reach me: **senver.berk6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
